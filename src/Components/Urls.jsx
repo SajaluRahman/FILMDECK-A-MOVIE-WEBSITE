@@ -15,6 +15,7 @@ export const History =`discover/movie?api_key=${Api_Key}&with_genres=36&language
 export const War =`discover/movie?api_key=${Api_Key}&with_genres=10752&language=en-US`
 export const Western =`discover/movie?api_key=${Api_Key}&with_genres=37&language=en-US`
 export const TVShowses =`discover/movie?api_key=${Api_Key}&with_genres=10770&language=en-US`
+export const Music =`discover/movie?api_key=${Api_Key}&with_genres=10402&language=en-US`
 
 
 
